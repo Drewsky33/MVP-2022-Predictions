@@ -50,6 +50,7 @@ The code for this project can be found here:
 <img width="823" alt="image" src="https://user-images.githubusercontent.com/77873198/170121605-12ef60d7-3870-418b-a819-d219dd3306cb.png">
 
 ### Data Visualization
+file:///Users/drewpy/Downloads/points_mvp.html
 <img width="1067" alt="image" src="https://user-images.githubusercontent.com/77873198/170121063-4239c02a-f0d1-4797-910a-4ef322989b34.png">
 
 Interactive visualizations can be viewed [here:] https://nbviewer.org/github/Drewsky33/MVP-2022-Predictions/blob/main/MachineLearning/Predictions%20%281%29.ipynb
