@@ -41,3 +41,35 @@ The code for this project can be found here:
 ### Scraping Data
 
 <img width="1002" alt="image" src="https://user-images.githubusercontent.com/77873198/170119826-09923f88-d488-40ee-b8cc-d19271e43841.png">
+
+### Cleaning Data/Merging Tables/Exploring Correlations
+<img width="876" alt="image" src="https://user-images.githubusercontent.com/77873198/170120334-21b7525a-12c7-48f6-9b0e-7440942da870.png">
+
+
+### Model Building
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/77873198/170121605-12ef60d7-3870-418b-a819-d219dd3306cb.png">
+
+### Data Visualization
+<img width="1067" alt="image" src="https://user-images.githubusercontent.com/77873198/170121063-4239c02a-f0d1-4797-910a-4ef322989b34.png">
+
+Interactive visualizations can be viewed [here:] https://nbviewer.org/github/Drewsky33/MVP-2022-Predictions/blob/main/MachineLearning/Predictions%20%281%29.ipynb
+
+### Performance:
+<img width="1093" alt="image" src="https://user-images.githubusercontent.com/77873198/170121846-c5088603-11b6-4d9c-b3c5-25f3a1bcc395.png">
+
+## Conclusions
+- Our algorithm actually predicted that Giannis Antentokounmpo was the 2022 NBA MVP.
+- The Ridge Regression model we created outperformed the Random Forest model slightly.
+- Both models were in the 70% accurate range for predicting a player's MVP vote shares.
+- The models were highly biased towards points scored and wins in their predictions. While the predictions were strong, we could improve them further by incorporating advanced defensive metrics so that more value is placed on more defensively-minded players.
+
+## What I learned
+- I learned how to scrape and clean data from [Basketball Reference](https://www.basketball-reference.com/)
+- Create customized metrics for regression models by taking into account different parts of the data. 
+- Improve model performance through backtesting.
+- Creating ratio metrics based off of existing columns in the dataset to provide more information (feature engineering).
+- Drilling down into model biases through advanced data visulization.
+
+### Resources
+- [DataQuest YouTube Channel](https://www.youtube.com/c/Dataquestio) for web-scraping and model-building
+- [Plotly](https://plotly.com/python/horizontal-bar-charts/#configure-horizontal-bar-chart) for data viz
